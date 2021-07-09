@@ -6,15 +6,15 @@
     "slug": "we-all-code",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 337,
-    "timeDay": 334,
-    "timeWeek": 499,
+    "time": 336,
+    "timeDay": 130,
+    "timeWeek": 504,
     "timeMonth": 295,
-    "timeYear": 337,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2021-07-07": 35
     }
